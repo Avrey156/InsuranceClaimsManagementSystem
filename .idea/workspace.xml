@@ -4,8 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d353ca2-9b0a-4fd1-8df5-8fcc3a7b048f" name="Changes" comment="Create essential Classes">
-      <change beforePath="$PROJECT_DIR$/src/entity/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/Customer.java" afterDir="false" />
+    <list default="true" id="7d353ca2-9b0a-4fd1-8df5-8fcc3a7b048f" name="Changes" comment="Create classes in service and utils packages">
+      <change afterPath="$PROJECT_DIR$/database/Claim.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/Dependent.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/InsuranceCard.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/PolicyHolder.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entity/ClaimProcessManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entity/ClaimProcessManagerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entity/Claim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/Claim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entity/Dependent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/Dependent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entity/InsuranceCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/InsuranceCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entity/PolicyHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/PolicyHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/ClaimService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/ClaimService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/CustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/InsuranceCardService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/InsuranceCardService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/StringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/StringUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +30,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -35,6 +51,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -42,6 +59,20 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="InsuranceClaimsManagementSystem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -74,12 +105,21 @@
       <option name="project" value="LOCAL" />
       <updated>1712248737755</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Create classes in service and utils packages">
+      <option name="closed" value="true" />
+      <created>1712249010397</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712249010397</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create project" />
     <MESSAGE value="Create essential Classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create essential Classes" />
+    <MESSAGE value="Create classes in service and utils packages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create classes in service and utils packages" />
   </component>
 </project>
