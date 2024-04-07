@@ -4,10 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d353ca2-9b0a-4fd1-8df5-8fcc3a7b048f" name="Changes" comment="Add population to database (text file)">
+    <list default="true" id="7d353ca2-9b0a-4fd1-8df5-8fcc3a7b048f" name="Changes" comment="Add population to claim (text file)">
       <change beforePath="$PROJECT_DIR$/database/Claim.txt" beforeDir="false" afterPath="$PROJECT_DIR$/database/Claim.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/InsuranceCard.txt" beforeDir="false" afterPath="$PROJECT_DIR$/database/InsuranceCard.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/PolicyHolder.txt" beforeDir="false" afterPath="$PROJECT_DIR$/database/PolicyHolder.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entity/Claim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/Claim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entity/ClaimProcessManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/ClaimProcessManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entity/ClaimProcessManagerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/ClaimProcessManagerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entity/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entity/Dependent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/Dependent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entity/InsuranceCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/InsuranceCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entity/PolicyHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/PolicyHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/ClaimService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/ClaimService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/CustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/InsuranceCardService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/InsuranceCardService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/StringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/StringUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712501478928</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add population to claim (text file)">
+      <option name="closed" value="true" />
+      <created>1712501807208</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712501807208</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -133,6 +151,7 @@
     <MESSAGE value="Create classes in service and utils packages" />
     <MESSAGE value="Code" />
     <MESSAGE value="Add population to database (text file)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add population to database (text file)" />
+    <MESSAGE value="Add population to claim (text file)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add population to claim (text file)" />
   </component>
 </project>

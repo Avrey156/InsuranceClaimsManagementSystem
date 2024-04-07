@@ -1,3 +1,7 @@
+/**
+ * @author <Nguyen Ngoc Minh Thu - S3941327>
+ */
+
 import entity.Claim;
 import entity.ClaimProcessManager;
 import entity.ClaimProcessManagerImpl;

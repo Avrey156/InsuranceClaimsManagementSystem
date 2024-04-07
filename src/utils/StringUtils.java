@@ -1,5 +1,9 @@
 package utils;
 
+/**
+ * @author <Nguyen Ngoc Minh Thu - S3941327>
+ */
+
 import java.util.List;
 
 public class StringUtils {

@@ -1,5 +1,9 @@
 package entity;
 
+/**
+ * @author <Nguyen Ngoc Minh Thu - S3941327>
+ */
+
 import jdk.jfr.Description;
 
 import java.sql.Date;

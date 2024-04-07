@@ -1,5 +1,9 @@
 package entity;
 
+/**
+ * @author <Nguyen Ngoc Minh Thu - S3941327>
+ */
+
 import utils.StringUtils;
 
 import java.util.List;

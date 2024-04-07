@@ -1,5 +1,9 @@
 package service;
 
+/**
+ * @author <Nguyen Ngoc Minh Thu - S3941327>
+ */
+
 import entity.Customer;
 import entity.InsuranceCard;
 
